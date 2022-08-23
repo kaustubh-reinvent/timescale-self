@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   timescaledb-multinode:
   - apiVersion: v1
-    created: "2022-08-23T17:13:32.431858+05:30"
+    created: "2022-08-23T17:56:01.363938+05:30"
     deprecated: true
     description: TimescaleDB Multinode Deployment.
-    digest: 8fab01175e7cc0008e13a7b6f73c606f83f16ddf50aa7fdee9dc7ed1b7792015
+    digest: 92f2f647117a49f03a086afcdc23c8f4d823d76b2ade2beece8c56c9cc107257
     home: https://github.com/timescale/helm-charts
     name: timescaledb-multinode
     sources:
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://kaustubh-reinvent.github.io/timescale-self/timescaledb-multinode-0.8.0.tgz
     version: 0.8.0
-generated: "2022-08-23T17:13:32.426078+05:30"
+generated: "2022-08-23T17:56:01.355615+05:30"
